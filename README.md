@@ -3,7 +3,7 @@
 ## start the server (runpod)
 for example:
 ```
-python -m http.server 8000
+python -m http.server 8888
 ```
 
 ## start your frontend
